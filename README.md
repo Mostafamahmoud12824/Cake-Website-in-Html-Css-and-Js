@@ -26,6 +26,15 @@ Beleniss is a haven for cake lovers, offering a delightful assortment of cakes a
 
 Feel free to contribute, share your thoughts, or report issues. Indulge in the sweetness! 🍰🎉
 
+## How to Order
 
+1. Visit our website.
+2. Browse the menu and select your favorite items.
+3. Place your order with a few simple clicks.
+4. Sit back, relax, and await the delicious delivery!
+
+## Installation
+
+No installation is required for the FreshFood online platform. Simply visit our webs
 
 
